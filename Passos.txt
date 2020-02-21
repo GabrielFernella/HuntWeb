@@ -1,0 +1,14 @@
+1 - npm install -g create-react-app (para instalar o suporte do react)
+2 - create-react-app huntweb (para criar uma aplicação react com o nome de "huntweb")
+3 - yarn add axios (para ter acesso a uma api externa)
+4 - yarn add react-router-dom
+5 - 
+7 - 
+8 -
+9 - 
+10 - 
+11 - 
+12 -
+13 - 
+14 - 
+15 - 
